@@ -1,0 +1,37 @@
+body{
+    background-image: url("pexels-mali-maeder-101667.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.new{
+    width: 5000px;
+    margin: 300px 500px;
+    padding: 10px 20px 30px;
+    background-color: rgba(0,0, 0, .1);
+    border-radius: 10px;
+    
+}
+.new .textbox{
+    display: block;
+}
+.input input{
+    width: 100%;
+    font-size:1.2em;
+    border:1px solid green ;
+    box-shadow: 2px;
+    border-radius: 8px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin: 5px 0px 15px;
+}
+
+.input:focus{
+    background-color:deeppink ;
+
+}
+.btn{
+    text-align: center;
+}
+button{
+    background-color: ;
+}
